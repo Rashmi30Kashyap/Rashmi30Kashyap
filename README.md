@@ -11,7 +11,7 @@ I am a Data Analyst with hands-on experience in **SQL, Python, Excel, and Power 
 
 
 ## 🌐 Socials:
-LinkedIn : www.linkedin.com/in/k-rashmi-kashyap
+LinkedIn : www.linkedin.com/in/k-rashmi-kashyap <br>
 Email : rashmikashyap30@gmail.com
 
 

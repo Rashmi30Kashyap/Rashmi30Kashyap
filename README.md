@@ -1,12 +1,12 @@
-# Hi 👋, I'm Rashmi Kashyap  
+# Hi I'm Rashmi Kashyap  
 
-### 📊 Data Analyst | SQL • Python • Power BI | Analytics Projects  
+###  Data Analyst | SQL • Python • Power BI | Analytics Projects  
 
 I am a Data Analyst with hands-on experience in **SQL, Python, Excel, and Power BI**, gained through self-driven, end-to-end analytics projects. I enjoy working with real-world datasets to uncover insights related to **customer behavior, churn, operational performance, and business metrics**.
 
 ---
 
-## 🔧 Skills & Tools  
+##  Skills & Tools  
 
 **Data Analysis:**  
 - Data Cleaning & Transformation  
@@ -23,9 +23,9 @@ I am a Data Analyst with hands-on experience in **SQL, Python, Excel, and Power 
 
 ---
 
-## 📌 Featured Projects  
+##  Featured Projects  
 
-### 🔹 QuickBite Express – Crisis Impact Analysis  
+###  QuickBite Express – Crisis Impact Analysis  
 **Tools:** Power BI, SQL, DAX  
 - Built a star-schema data model across multiple datasets  
 - Created interactive dashboards for churn, orders, SLA, and ratings  
@@ -35,7 +35,7 @@ I am a Data Analyst with hands-on experience in **SQL, Python, Excel, and Power 
 
 ---
 
-### 🔹 Customer Management System  
+###  Customer Management System  
 **Tools:** Python, MySQL, Streamlit  
 - Designed a relational database for customers, orders, and payments  
 - Automated workflows to reduce manual effort and data errors  
@@ -45,7 +45,7 @@ I am a Data Analyst with hands-on experience in **SQL, Python, Excel, and Power 
 
 ---
 
-### 🔹 Sentiment Analysis System  
+###  Sentiment Analysis System  
 **Tools:** Python, NLP, VADER, Streamlit  
 - Analyzed 40,000+ Amazon reviews  
 - Built a text preprocessing and sentiment scoring pipeline  
@@ -55,7 +55,7 @@ I am a Data Analyst with hands-on experience in **SQL, Python, Excel, and Power 
 
 ---
 
-## 💼 Experience  
+##  Experience  
 
 **HR Operations Executive – Evatoz Solutions Pvt. Ltd.**  
 - Maintained and tracked operational data using Excel  
@@ -64,13 +64,13 @@ I am a Data Analyst with hands-on experience in **SQL, Python, Excel, and Power 
 
 ---
 
-## 🎯 What I’m Looking For  
+##  What I’m Looking For  
 - Entry-level **Data Analyst / Business Analyst** roles  
 - Opportunities to work on **data-driven decision-making and dashboards**  
 
 ---
 
-## 📫 Connect With Me  
+##  Connect With Me  
 - 📧 Email: rashmikashyap30@gmail.com  
 - 💼 LinkedIn: www.linkedin.com/in/k-rashmi-kashyap  
 - 📊 GitHub: You’re already here 😊  
